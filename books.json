@@ -1,0 +1,39 @@
+{
+  "site": {
+    "kicker": "Colección de ebooks",
+    "title": "Biblioteca Jean José",
+    "subtitle": "Historias, ideas y herramientas para despertar. Lee una muestra gratis de cada libro y elige tu próxima aventura.",
+    "author": "Jean José",
+    "footer": "© Jean José",
+    "contactUrl": "mailto:hedonomania@outlook.com",
+    "contactLabel": "Escríbeme"
+  },
+  "books": [
+    {
+      "id": "ultimo-vals",
+      "title": "Hasta el Último Vals",
+      "tagline": "Un fantasma, un vals y una promesa que ni la muerte puede romper.",
+      "pdf": "libros/hasta-el-ultimo-vals-muestra.pdf",
+      "sample": 16,
+      "accent": "#9bb8e8",
+      "badge": "Muestra gratis",
+      "ctaTitle": "¿Cómo termina el vals?",
+      "ctaText": "Esto fue solo el comienzo. Compra el libro completo y te llega por correo.",
+      "buyUrl": "https://mpago.la/2epQ2DX",
+      "buyLabel": "Comprar por $4.990"
+    },
+    {
+      "id": "primer-millon",
+      "title": "El Primer Millón en Tiempos de Crisis",
+      "tagline": "Sin humo, sin magia. El camino real, paso a paso.",
+      "pdf": "libros/primer-millon.pdf",
+      "sample": 12,
+      "accent": "#e6c27a",
+      "badge": "Muestra gratis",
+      "buyUrl": "https://mpago.la/2rNSQGc",
+      "buyLabel": "Comprar con Mercado Pago",
+      "ctaTitle": "¿Quieres seguir juntando tu millón?",
+      "ctaText": "Esto fue solo el primer nivel. Compra el libro completo y te llega por correo."
+    }
+  ]
+}
